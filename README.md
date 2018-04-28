@@ -35,7 +35,8 @@ To ensure data integrity and security and to prevent any kind of manipulation we
  
  Teambuilding ist ein immer wiederkehrendes Thema in unserer Arbeitswelt.
 Nach dem Model von Tuckman muss jedes Team bei jeder Änderung immer wieder die 4 Phasen durchlaufen.
-  <img width="460" height="300" src="https://tools.thecoachingtoolscompany.com/wp-content/uploads/2014/02/TCTC-Forming-Storming.png">
+ 
+ <src="https://tools.thecoachingtoolscompany.com/wp-content/uploads/2014/02/TCTC-Forming-Storming.png">
 
 Bei norming lernen sich die Teammitglieder kennen, die Ziele und Aufgaben werden definiert, alle sind noch recht vorsichtig miteinander.
 

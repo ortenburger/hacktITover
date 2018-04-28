@@ -36,9 +36,6 @@ To ensure data integrity and security and to prevent any kind of manipulation we
  Teambuilding ist ein immer wiederkehrendes Thema in unserer Arbeitswelt.
 Nach dem Model von Tuckman muss jedes Team bei jeder Änderung immer wieder die 4 Phasen durchlaufen.
  
-Teambuilding ist ein immer wiederkehrendes Thema in unserer Arbeitswelt.
-Nach dem Model von Tuckman muss jedes Team bei jeder Änderung immer wieder die 4 Phasen durchlaufen.
- 
 
 Bei norming lernen sich die Teammitglieder kennen, die Ziele und Aufgaben werden definiert, alle sind noch recht vorsichtig miteinander.
 
@@ -59,26 +56,4 @@ Durch gezielte Aufgaben erleben die Benutzer gemeinsam Erfolge oder Niederlagen.
 Um zusätzliche Motivation zu erzeugen nutzen wir SAP Gamification Service. Die Teams erreichen Punkte, die werden Unternehmensweit in  Highscore Listen angezeigt.
 
 Die Top Teams kriegen Belohnungen. Die Teams die am schlechtesten abschneiden, werden von coaches unterstützt. Evtl passen sie gar nicht zusammen und sollten lieber mit anderen zusammenarbeiten.
-
-
-Bei norming lernen sich die Teammitglieder kennen, die Ziele und Aufgaben werden definiert, alle sind noch recht vorsichtig miteinander.
-
-Storming ist die Phase, wo die Teammitglieder sich offen miteinander austauschen. Es können Streite Entstehen, Rollenverteilung, die Leistung ist zwar gering aber es ist notwendig um das gegenseitige Vertrauen aufzubauen und zu der nächster Phase zu kommen.
-
-Im norming hat sich das Team beruhigt und gefunden, die Beziehungen sind harmonischer, die Rollen verteilt
-
-Die Performing Phase ist letztendlich da, wo das Team gut arbeitet, sich gegenseitig viel aushilft und austauscht. 
-
-Vor allem die remote Teams kommen selten über die forming Phase hinaus. Sie arbeiten zwar miteinander, tauschen sich aber nicht wirklich aus. 
-
-Somit hat norming keine chance, von performance ganz zu schweigen.
-
-Unsere App hilft den Teams sich kennenzulernen, die Mitglieder erreichen gemeinsam Ziele, die sie alleine niemals erreichen könnten.
-
-Durch gezielte Aufgaben erleben die Benutzer gemeinsam Erfolge oder Niederlagen. Dies führt zu einer engeren verbindung auf der Emotionaler ebene, was letztendlich zum offenem Austausch und der Storming Phase führen kann.
-
-Um zusätzliche Motivation zu erzeugen nutzen wir SAP Gamification Service. Die Teams erreichen Punkte, die werden Unternehmensweit in  Highscore Listen angezeigt.
-
-Die Top Teams kriegen Belohnungen. Die Teams die am schlechtesten abschneiden, werden von coaches unterstützt. Evtl passen sie gar nicht zusammen und sollten lieber mit anderen zusammenarbeiten.
-
 

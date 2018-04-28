@@ -25,12 +25,10 @@ Languages used:
 * C/++
 
 
-VEscape [we-scape] 
-VEscape is a Tool to improve Teamperformance. 
-According to https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development we develope a tool to get into the 'stoming'-stage of Teamdevelopement with remotely working teams. 
-To achieve this we put the Teams into virtual escape rooms, where they will need to kommunicate and solve puzzles together. By creating this game environment we are able to overcome cultural differences and drastically increase the teams performance on the long run. 
-We use the kommmunikation between the teammembers to get insights on thier optimal teamroles via PRECIRE and machinelearning (Tensorflow in the SAP-Cloud) to help improve the agile assembly of new teams. 
-To ensure data integrety and security and to prevent any kind of manipulation we are using the blockchain technology. 
-The Highscore and Sessions are stored via the SAP-Services. 
+VISHONI is a Tool to improve team performance. 
+According to https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development we develop a tool to get into the 'storming'-stage of team development with remotely working teams. 
+To achieve this we put the teams into virtual escape rooms, where they will need to communicate and solve puzzles together. 
+By creating this game environment we are able to overcome cultural differences and drastically increase the teams performance on the long run. We use the communication between the team members to get insights on their optimal team roles via PRECIRE and machine learning (Tensorflow in the SAP-Cloud) to help improve the agile assembly of new teams. 
+To ensure data integrity and security and to prevent any kind of manipulation we are using the blockchain technology. The High score and sessions are stored via the SAP-Services.
 
-Name-Change auf "vishoni": vishoni -> virtuell + ishoni (ishoni = Issho ni = japanisch für "zusammen")
+ vishoni: virtuell + ishoni (ishoni -> Issho ni = japanese for "together") 

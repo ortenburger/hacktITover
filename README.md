@@ -38,23 +38,14 @@ Nach dem Model von Tuckman muss jedes Team bei jeder Änderung immer wieder die 
  
  <img align="center" src="https://tools.thecoachingtoolscompany.com/wp-content/uploads/2014/02/TCTC-Forming-Storming.png">
 
-Bei norming lernen sich die Teammitglieder kennen, die Ziele und Aufgaben werden definiert, alle sind noch recht vorsichtig miteinander.
-
+Inder Norming-Phase lernen sich die Teammitglieder kennen, die Ziele und Aufgaben werden definiert, alle sind noch recht vorsichtig miteinander.
 Storming ist die Phase, wo die Teammitglieder sich offen miteinander austauschen. Es können Streite Entstehen, Rollenverteilung, die Leistung ist zwar gering aber es ist notwendig um das gegenseitige Vertrauen aufzubauen und zu der nächster Phase zu kommen.
-
 Im norming hat sich das Team beruhigt und gefunden, die Beziehungen sind harmonischer, die Rollen verteilt
-
 Die Performing Phase ist letztendlich da, wo das Team gut arbeitet, sich gegenseitig viel aushilft und austauscht. 
-
-Vor allem die remote Teams kommen selten über die forming Phase hinaus. Sie arbeiten zwar miteinander, tauschen sich aber nicht wirklich aus. 
-
-Somit hat norming keine chance, von performance ganz zu schweigen.
-
-Unsere App hilft den Teams sich kennenzulernen, die Mitglieder erreichen gemeinsam Ziele, die sie alleine niemals erreichen könnten.
-
-Durch gezielte Aufgaben erleben die Benutzer gemeinsam Erfolge oder Niederlagen. Dies führt zu einer engeren verbindung auf der Emotionaler ebene, was letztendlich zum offenem Austausch und der Storming Phase führen kann.
-
-Um zusätzliche Motivation zu erzeugen nutzen wir SAP Gamification Service. Die Teams erreichen Punkte, die werden Unternehmensweit in  Highscore Listen angezeigt.
-
-Die Top Teams kriegen Belohnungen. Die Teams die am schlechtesten abschneiden, werden von coaches unterstützt. Evtl passen sie gar nicht zusammen und sollten lieber mit anderen zusammenarbeiten.
+Vor allem die remote Teams kommen selten über die Forming-Phase hinaus. Sie arbeiten zwar miteinander, tauschen sich aber nie wirklich aus. 
+Somit kommen die Teams nie in die Norming-Phase, von der Performing-Phase ganz zu schweigen.
+Unsere App hilft den Teammitgliedern sich kennenzulernen, sie erreichen gemeinsam Ziele, die sie alleine niemals hätten erreichen könnten.
+Durch gezielte Aufgaben erleben die Benutzer gemeinsamme Erfolge und Niederlagen kennen und werden zu einer aktiven und offenen Kommunikation angeleitet. Dies führt zu einer engeren Verbindung auf der emotionalen Ebene, was letztendlich zum offenem Austausch und der Storming Phase führt, da so auch schnell Probleme angesprochen werden.
+Um zusätzliche Motivation zu erzeugen nutzen wir den SAP Gamification Service. Die Teams erreichen Punkte, welche unternehmensweit in der Hall of Fame angezeigt werden.
+Die Top Teams kriegen Belohnungen. Die Teams die am schlechtesten abschneiden, werden von Coaches unterstützt. Evtl passen sie gar nicht zusammen und sollten lieber mit anderen zusammenarbeiten.
 

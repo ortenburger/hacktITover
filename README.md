@@ -32,3 +32,5 @@ To achieve this we put the Teams into virtual escape rooms, where they will need
 We use the kommmunikation between the teammembers to get insights on thier optimal teamroles via PRECIRE and machinelearning (Tensorflow in the SAP-Cloud) to help improve the agile assembly of new teams. 
 To ensure data integrety and security and to prevent any kind of manipulation we are using the blockchain technology. 
 The Highscore and Sessions are stored via the SAP-Services. 
+
+Name-Change auf "vishoni": vishoni -> virtuell + ishoni (ishoni = Issho ni = japanisch für "zusammen")

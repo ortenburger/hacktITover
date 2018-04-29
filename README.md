@@ -25,29 +25,26 @@ Languages used:
 * C/++
 
 
-VISHONI is a Tool to improve team performance. 
-According to https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development we develop a tool to get into the 'storming'-stage of team development with remotely working teams. 
-To achieve this we put the teams into virtual escape rooms, where they will need to communicate and solve puzzles together. 
-By creating this game environment we are able to overcome cultural differences and drastically increase the teams performance on the long run. We use the communication between the team members to get insights on their optimal team roles via PRECIRE and machine learning (Tensorflow in the SAP-Cloud) to help improve the agile assembly of new teams. 
-To ensure data integrity and security and to prevent any kind of manipulation we are using the blockchain technology. The High score and sessions are stored via the SAP-Services.
 
- vishoni: virtuell + ishoni (ishoni -> Issho ni = japanese for "together") 
+VISHONI is a Tool to improve team performance. According to The forming–storming–norming–performing model of group development by Bruce Tuckman (https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development) we develop a tool to get into the 'storming'-stage of team development with remotely working teams. To achieve this we put the teams into virtual escape rooms, where they will need to communicate and solve puzzles together. By creating this game environment we are able to overcome cultural differences and drastically increase the teams performance on the long run. We use the communication between the team members to get insights on their optimal team roles via PRECIRE and machine learning (Tensorflow in the SAP-Cloud) to help improve the agile assembly of new teams. To ensure data integrity and security and to prevent any kind of manipulation we are using the blockchain technology. The High score and sessions are stored via the SAP-Services.
+
+
+Teambuilding ist ein immer wiederkehrendes Thema in unserer Arbeitswelt. Nach dem Modell von Tuckman muss ein Team bei jeder Änderung immer wieder die 4 Phasen durchlaufen.
+
+In der Forming-Phase lernen sich die Teammitglieder kennen, die Ziele und Aufgaben werden definiert, alle sind noch recht vorsichtig miteinander. 
+Storming ist die Phase, in der die Teammitglieder beginnen sich offen miteinander austauschen. Es können Konflikte bezüglich der Rollenverteilung entstehen. Die Leistung ist zwar gering aber die Phase ist notwendig um das gegenseitige Vertrauen aufzubauen und zu der nächster Phase überzuleiten. 
+Im Norming hat sich das Team beruhigt und gefunden, die Beziehungen sind harmonischer, die Rollen verteilt. 
+Ab der Performing-Phase agiert das Team als Kollektiv, es wird füreinander gearbeitet, man unterstützt sich gegenseitig. Die Produktivität und Leistungsorientierung des Teams sind jetzt auf einem hohen Niveau.
  
- Teambuilding ist ein immer wiederkehrendes Thema in unserer Arbeitswelt.
-Nach dem Model von Tuckman muss jedes Team bei jeder Änderung immer wieder die 4 Phasen durchlaufen.
- 
- <img align="center" src="https://tools.thecoachingtoolscompany.com/wp-content/uploads/2014/02/TCTC-Forming-Storming.png">
+Jedoch kommen vor allem remote Teams selten über die Forming-Phase hinaus. Sie arbeiten zwar miteinander, tauschen sich aber kaum aus. Somit gelangen die Teams nie in die Norming-Phase, von der Performing-Phase ganz zu schweigen. 
 
-Inder Norming-Phase lernen sich die Teammitglieder kennen, die Ziele und Aufgaben werden definiert, alle sind noch recht vorsichtig miteinander.
-Storming ist die Phase, wo die Teammitglieder sich offen miteinander austauschen. Es können Streite Entstehen, Rollenverteilung, die Leistung ist zwar gering aber es ist notwendig um das gegenseitige Vertrauen aufzubauen und zu der nächster Phase zu kommen.
-Im norming hat sich das Team beruhigt und gefunden, die Beziehungen sind harmonischer, die Rollen verteilt
-Die Performing Phase ist letztendlich da, wo das Team gut arbeitet, sich gegenseitig viel aushilft und austauscht. 
-Vor allem die remote Teams kommen selten über die Forming-Phase hinaus. Sie arbeiten zwar miteinander, tauschen sich aber nie wirklich aus. 
-Somit kommen die Teams nie in die Norming-Phase, von der Performing-Phase ganz zu schweigen.
-Unsere App hilft den Teammitgliedern sich kennenzulernen, sie erreichen gemeinsam Ziele, die sie alleine niemals hätten erreichen könnten.
-Durch gezielte Aufgaben erleben die Benutzer gemeinsamme Erfolge und Niederlagen kennen und werden zu einer aktiven und offenen Kommunikation angeleitet. Dies führt zu einer engeren Verbindung auf der emotionalen Ebene, was letztendlich zum offenem Austausch und der Storming Phase führt, da so auch schnell Probleme angesprochen werden.
-Um zusätzliche Motivation zu erzeugen nutzen wir den SAP Gamification Service. Die Teams erreichen Punkte, welche unternehmensweit in der Hall of Fame angezeigt werden.
-Die Top Teams kriegen Belohnungen. Die Teams die am schlechtesten abschneiden, werden von Coaches unterstützt. Evtl passen sie gar nicht zusammen und sollten lieber mit anderen zusammenarbeiten.
-Um Manipulationen gar nicht erst zu ermöglichen setzen wir auf der Blockchain welche auf der SAP-Cloud implementiert wurde, so können wir die Nutzer eindeutig und anonymisiert (was für die psychologische Auswertung interessant ist) identifizieren. Jede Session mit ihren Ergebnissen wird als Payload in der Chain gespeichert. 
+Teamarbeit soll nicht dem Zufall überlassen werden. Aus diesem Grund hat die Teambildung/-entwicklung unter anderem das Ziel, ein positives Arbeitsklima zu schaffen und eine vertrauensvolle Zusammenarbeit zu gewährleisten. 
 
-Die Technologie, welche wir hier entwickelt haben, lässt sich auch auf viele andere Felder anwenden, wie beispielsweise die Betreuung von Alten Menschen, welchen so die Moeglichkeit geboten wird mit ihren Enkeln einfach und unkompliziert zu spielen oder auch PTSD-Patienten nahezu jederzeit eine Session mit ihrem Therapeuten wahrzunehmen. Eine weitere interessante Anwendungsmoeglichkeit ist die Suizidhilfe, wir können mit ausreichend Trainingsdaten rechtzeitig intervenieren und erstmal über inbenta einen machinellen Psychologen an die Hand geben, bis ein realer Zeit hat sich dem gefährdeten anzunehmen.
+Unsere App hilft insbesondere remote arbeitenden Teams sich kennenzulernen, sie erreichen gemeinsam Ziele, die sie alleine niemals hätten erreichen können. In dem geschützten Aufgaben-Rahmen werden die Benutzer zu einer aktiven und offenen Kommunikation angeleitet und lernen konstruktive Kritik und Erwartungen an die Rolle der anderen zu formulieren. So können Forming und Storming schneller überwunden werden. Zudem erleben die Gruppenmitglieder gemeinsam Erfolge und Niederlagen. Dies führt zu einer engeren Verbindung auf der emotionalen Ebene und der Teamgeist wird gefördert, was sich wiederum positiv auf die Arbeit auswirkt.
+Um zusätzliche Motivation zu erzeugen nutzen wir den SAP Gamification Service. Die Teams erreichen Punkte, welche unternehmensweit in der Hall of Fame angezeigt werden. Die Top Teams bekommen Belohnungen. Die Teams die am schlechtesten abschneiden, werden von Coaches unterstützt. Eventuell passen sie gar nicht zusammen und sollten lieber mit anderen zusammenarbeiten. 
+
+Unterstützend zu den Daten aus der Game Performance können die Gespräche während den Challenges mit Hilfe von PRECIRE analysiert und so psychologische Rückschlüsse auf kommunikative und persönliche Kompetenzen der einzelnen Teammitglieder möglich werden. Dadurch können den Teams auf sie spezifisch abgestimmte Challenges gestellt werden.
+
+Um Manipulationen gar nicht erst zu ermöglichen setzen wir auf der Blockchain, welche auf der SAP-Cloud implementiert wurde. So können wir die Nutzer eindeutig und anonymisiert (für die psychologische Auswertung interessant) identifizieren. Jede Session mit ihren Ergebnissen wird als Payload in der Chain gespeichert.
+
+Die Technologie, welche wir hier entwickelt haben, lässt sich auch auf viele andere Felder anwenden, wie beispielsweise die Betreuung von Alten Menschen, welchen so die Möglichkeit geboten wird mit ihren Enkeln einfach und unkompliziert zu spielen oder auch PTSD-Patienten nahezu jederzeit eine Session mit ihrem Therapeuten wahrzunehmen. Eine weitere interessante Anwendungsmöglichkeit ist die Suizidhilfe, wir können mit ausreichend Trainingsdaten rechtzeitig intervenieren und erstmal über inbenta einen maschinellen Psychologen an die Hand geben, bis ein realer Zeit hat sich dem gefährdeten anzunehmen.

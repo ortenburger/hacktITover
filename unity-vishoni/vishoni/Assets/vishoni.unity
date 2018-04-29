@@ -712,6 +712,10 @@ Prefab:
       propertyPath: m_MotionVectors
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 100386, guid: 99b3732be00f06d4a93f2effd2009625, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 99b3732be00f06d4a93f2effd2009625, type: 3}
   m_IsPrefabParent: 0

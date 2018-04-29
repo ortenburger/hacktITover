@@ -28,6 +28,7 @@ Languages used:
 
 VISHONI is a Tool to improve team performance. According to The forming–storming–norming–performing model of group development by Bruce Tuckman (https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development) we develop a tool to get into the 'storming'-stage of team development with remotely working teams. To achieve this we put the teams into virtual escape rooms, where they will need to communicate and solve puzzles together. By creating this game environment we are able to overcome cultural differences and drastically increase the teams performance on the long run. We use the communication between the team members to get insights on their optimal team roles via PRECIRE and machine learning (Tensorflow in the SAP-Cloud) to help improve the agile assembly of new teams. To ensure data integrity and security and to prevent any kind of manipulation we are using the blockchain technology. The High score and sessions are stored via the SAP-Services.
 
+In detail: 
 Teambulding is a recurring challenge in our working world. 
 Based on the model of Tuckman, every change in the team triggers another passing of the 4 phases of teambuilding. Forming, Storming, Norming and Performing.
 

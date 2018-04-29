@@ -1,0 +1,178 @@
+
+Source Code
+
+swagger: "2.0"
+
+
+info:
+Ich versuche im Code eine Doku zu schreiben die den Code Review vereinfacht.
+  version: "0.001"
+  title: "ProtoVescape"
+
+// consumes: Standartinhaltstypenoptionen werden festgelegt
+// produces : Spezieller Standart für HTTP Anfragen, es sind nur application/json oder text/plain moeglich. Wir habven uns für application/json entschieden, um eine breitere Masse von Events zu unteretützen. 
+consumes:
+  - application/x-www-form-urlencoded
+produces:
+  - application/json
+
+
+parameters:
+
+  id:
+    name: id
+    in: path
+    description: ID of the message
+    required: true
+    type: string
+    maxLength: 64
+
+  text:
+    name: text
+    in: formData
+    description: The text of the message
+    required: true
+    type: string
+    maxLength: 255
+
+
+paths:
+
+  /{id}:
+
+    head:
+      operationId: exist
+      summary: Validate text's existance by ID
+      parameters:
+      - $ref: '#/parameters/id'
+      responses:
+        204:
+          description: Message Exists
+        400:
+          description: Parameter Mismatch
+        404:
+          description: Not Found
+
+
+    get:
+      operationId: read
+      summary: Read text by ID
+      parameters:
+      - $ref: '#/parameters/id'
+      responses:
+        200:
+          description: OK
+          schema:
+            type: object
+            properties:
+              text: 
+                type: string
+        400:
+          description: Parameter Mismatch
+        404:
+          description: Not Found
+
+
+    post:
+      operationId: create
+      summary: Creates a text by ID 
+      parameters:
+      - $ref: '#/parameters/id'
+      - $ref: '#/parameters/text'
+      responses:
+        201:
+          description: Text Created
+        400:
+          description: Parameter Mismatch
+        409:
+          description: Text Already Exists
+
+
+    put:
+      operationId: update
+      summary: Updates a text by ID 
+      parameters:
+      - $ref: '#/parameters/id'
+      - $ref: '#/parameters/text'
+      responses:
+        204:
+          description: Text Updated
+        400:
+          description: Parameter Mismatch
+        404:
+          description: Not Found
+
+
+    delete:
+      operationId: delete
+      summary: Delete text by ID
+      parameters:
+      - $ref: '#/parameters/id'
+      responses:
+        204:
+          description: Text Deleted
+        400:
+          description: Parameter Mismatch
+        404:
+          description: Not Found
+
+
+  /{id}/history:
+
+    get:
+      operationId: history
+      summary: Return history by ID
+      parameters:
+      - $ref: '#/parameters/id'
+      responses:
+        200:
+          description: OK
+          schema:
+            type: object
+            properties:
+              values:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    timestamp:
+                      type: string
+                    text:
+                      type: string
+        400:
+          description: Parameter Mismatch
+        404:
+          description: Not Found
+
+
+  /search/{wildcard}:
+
+    get:
+      operationId: search
+      summary: Wildcardnutzung zur Texterkennung 
+      description: Suche mittels RegEx
+      parameters:
+      - name: wildcard
+        in: path
+        description: Wildcard.. was soll ich sagen?
+        required: true
+        type: string
+        maxLength: 64
+      responses:
+        200:
+          description: OK
+          schema:
+            type: object
+            properties:
+              values:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    id:
+                      type: string
+                    text:
+                      type: string
+        400:
+          description: Parameter Mismatch
+

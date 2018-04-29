@@ -1,0 +1,7 @@
+# DISCLAIMER:
+#Der Code der hier steht möchte verstanden werden.
+#Deployen ist erst am 29.04.2018 möglich da SAP Zugänge fehlen.
+#Wir bitten hier um Nachsicht seitens der Jury das wir es hier nicht testen können.
+Id:       com-sap-icn-blockchain-Deep-Thought')-_-DROP-TABLE-__---
+
+Version:2

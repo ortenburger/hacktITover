@@ -1,0 +1,9 @@
+Build
+Library/ShaderCache
+metadata
+QCAR
+Temp
+Library/PlayerDataCache
+*.log
+*.buildreport
+CrashedAssetImports.txt

@@ -1,0 +1,769 @@
+fileFormatVersion: 2
+guid: 99b3732be00f06d4a93f2effd2009625
+timeCreated: 1524996679
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: g Pot_of_Gold Gold Gold_Piece_100
+    100002: g Pot_of_Gold Gold Gold_Piece_100_22
+    100004: g Pot_of_Gold Gold Gold_Piece_101
+    100006: g Pot_of_Gold Gold Gold_Piece_101_23
+    100008: g Pot_of_Gold Gold Gold_Piece_102
+    100010: g Pot_of_Gold Gold Gold_Piece_102_24
+    100012: g Pot_of_Gold Gold Gold_Piece_105
+    100014: g Pot_of_Gold Gold Gold_Piece_105_25
+    100016: g Pot_of_Gold Gold Gold_Piece_106
+    100018: g Pot_of_Gold Gold Gold_Piece_106_26
+    100020: g Pot_of_Gold Gold Gold_Piece_107
+    100022: g Pot_of_Gold Gold Gold_Piece_107_27
+    100024: g Pot_of_Gold Gold Gold_Piece_108
+    100026: g Pot_of_Gold Gold Gold_Piece_108_28
+    100028: g Pot_of_Gold Gold Gold_Piece_109
+    100030: g Pot_of_Gold Gold Gold_Piece_109_29
+    100032: g Pot_of_Gold Gold Gold_Piece_110
+    100034: g Pot_of_Gold Gold Gold_Piece_110_30
+    100036: g Pot_of_Gold Gold Gold_Piece_129
+    100038: g Pot_of_Gold Gold Gold_Piece_129_31
+    100040: g Pot_of_Gold Gold Gold_Piece_130
+    100042: g Pot_of_Gold Gold Gold_Piece_130_32
+    100044: g Pot_of_Gold Gold Gold_Piece_131
+    100046: g Pot_of_Gold Gold Gold_Piece_131_33
+    100048: g Pot_of_Gold Gold Gold_Piece_132
+    100050: g Pot_of_Gold Gold Gold_Piece_132_34
+    100052: g Pot_of_Gold Gold Gold_Piece_133
+    100054: g Pot_of_Gold Gold Gold_Piece_133_35
+    100056: g Pot_of_Gold Gold Gold_Piece_134
+    100058: g Pot_of_Gold Gold Gold_Piece_134_36
+    100060: g Pot_of_Gold Gold Gold_Piece_137
+    100062: g Pot_of_Gold Gold Gold_Piece_137_37
+    100064: g Pot_of_Gold Gold Gold_Piece_138
+    100066: g Pot_of_Gold Gold Gold_Piece_138_38
+    100068: g Pot_of_Gold Gold Gold_Piece_139
+    100070: g Pot_of_Gold Gold Gold_Piece_139_39
+    100072: g Pot_of_Gold Gold Gold_Piece_140
+    100074: g Pot_of_Gold Gold Gold_Piece_140_40
+    100076: g Pot_of_Gold Gold Gold_Piece_141
+    100078: g Pot_of_Gold Gold Gold_Piece_141_41
+    100080: g Pot_of_Gold Gold Gold_Piece_142
+    100082: g Pot_of_Gold Gold Gold_Piece_142_42
+    100084: g Pot_of_Gold Gold Gold_Piece_145
+    100086: g Pot_of_Gold Gold Gold_Piece_145_43
+    100088: g Pot_of_Gold Gold Gold_Piece_146
+    100090: g Pot_of_Gold Gold Gold_Piece_146_44
+    100092: g Pot_of_Gold Gold Gold_Piece_147
+    100094: g Pot_of_Gold Gold Gold_Piece_147_45
+    100096: g Pot_of_Gold Gold Gold_Piece_148
+    100098: g Pot_of_Gold Gold Gold_Piece_148_46
+    100100: g Pot_of_Gold Gold Gold_Piece_149
+    100102: g Pot_of_Gold Gold Gold_Piece_149_47
+    100104: g Pot_of_Gold Gold Gold_Piece_150
+    100106: g Pot_of_Gold Gold Gold_Piece_150_48
+    100108: g Pot_of_Gold Gold Gold_Piece_169
+    100110: g Pot_of_Gold Gold Gold_Piece_169_49
+    100112: g Pot_of_Gold Gold Gold_Piece_170
+    100114: g Pot_of_Gold Gold Gold_Piece_170_50
+    100116: g Pot_of_Gold Gold Gold_Piece_171
+    100118: g Pot_of_Gold Gold Gold_Piece_171_51
+    100120: g Pot_of_Gold Gold Gold_Piece_172
+    100122: g Pot_of_Gold Gold Gold_Piece_172_52
+    100124: g Pot_of_Gold Gold Gold_Piece_173
+    100126: g Pot_of_Gold Gold Gold_Piece_173_53
+    100128: g Pot_of_Gold Gold Gold_Piece_174
+    100130: g Pot_of_Gold Gold Gold_Piece_174_54
+    100132: g Pot_of_Gold Gold Gold_Piece_177
+    100134: g Pot_of_Gold Gold Gold_Piece_177_55
+    100136: g Pot_of_Gold Gold Gold_Piece_178
+    100138: g Pot_of_Gold Gold Gold_Piece_178_56
+    100140: g Pot_of_Gold Gold Gold_Piece_179
+    100142: g Pot_of_Gold Gold Gold_Piece_179_57
+    100144: g Pot_of_Gold Gold Gold_Piece_180
+    100146: g Pot_of_Gold Gold Gold_Piece_180_58
+    100148: g Pot_of_Gold Gold Gold_Piece_181
+    100150: g Pot_of_Gold Gold Gold_Piece_181_59
+    100152: g Pot_of_Gold Gold Gold_Piece_182
+    100154: g Pot_of_Gold Gold Gold_Piece_182_60
+    100156: g Pot_of_Gold Gold Gold_Piece_185
+    100158: g Pot_of_Gold Gold Gold_Piece_185_61
+    100160: g Pot_of_Gold Gold Gold_Piece_186
+    100162: g Pot_of_Gold Gold Gold_Piece_186_62
+    100164: g Pot_of_Gold Gold Gold_Piece_187
+    100166: g Pot_of_Gold Gold Gold_Piece_187_63
+    100168: g Pot_of_Gold Gold Gold_Piece_188
+    100170: g Pot_of_Gold Gold Gold_Piece_188_64
+    100172: g Pot_of_Gold Gold Gold_Piece_189
+    100174: g Pot_of_Gold Gold Gold_Piece_189_65
+    100176: g Pot_of_Gold Gold Gold_Piece_190
+    100178: g Pot_of_Gold Gold Gold_Piece_190_66
+    100180: g Pot_of_Gold Gold Gold_Piece_209
+    100182: g Pot_of_Gold Gold Gold_Piece_209_67
+    100184: g Pot_of_Gold Gold Gold_Piece_210
+    100186: g Pot_of_Gold Gold Gold_Piece_210_68
+    100188: g Pot_of_Gold Gold Gold_Piece_211
+    100190: g Pot_of_Gold Gold Gold_Piece_211_69
+    100192: g Pot_of_Gold Gold Gold_Piece_212
+    100194: g Pot_of_Gold Gold Gold_Piece_212_70
+    100196: g Pot_of_Gold Gold Gold_Piece_213
+    100198: g Pot_of_Gold Gold Gold_Piece_213_71
+    100200: g Pot_of_Gold Gold Gold_Piece_214
+    100202: g Pot_of_Gold Gold Gold_Piece_214_72
+    100204: g Pot_of_Gold Gold Gold_Piece_217
+    100206: g Pot_of_Gold Gold Gold_Piece_217_73
+    100208: g Pot_of_Gold Gold Gold_Piece_218
+    100210: g Pot_of_Gold Gold Gold_Piece_218_74
+    100212: g Pot_of_Gold Gold Gold_Piece_219
+    100214: g Pot_of_Gold Gold Gold_Piece_219_75
+    100216: g Pot_of_Gold Gold Gold_Piece_220
+    100218: g Pot_of_Gold Gold Gold_Piece_220_76
+    100220: g Pot_of_Gold Gold Gold_Piece_221
+    100222: g Pot_of_Gold Gold Gold_Piece_221_77
+    100224: g Pot_of_Gold Gold Gold_Piece_222
+    100226: g Pot_of_Gold Gold Gold_Piece_222_78
+    100228: g Pot_of_Gold Gold Gold_Piece_225
+    100230: g Pot_of_Gold Gold Gold_Piece_225_79
+    100232: g Pot_of_Gold Gold Gold_Piece_226
+    100234: g Pot_of_Gold Gold Gold_Piece_226_80
+    100236: g Pot_of_Gold Gold Gold_Piece_227
+    100238: g Pot_of_Gold Gold Gold_Piece_227_81
+    100240: g Pot_of_Gold Gold Gold_Piece_228
+    100242: g Pot_of_Gold Gold Gold_Piece_228_82
+    100244: g Pot_of_Gold Gold Gold_Piece_229
+    100246: g Pot_of_Gold Gold Gold_Piece_229_83
+    100248: g Pot_of_Gold Gold Gold_Piece_230
+    100250: g Pot_of_Gold Gold Gold_Piece_230_84
+    100252: g Pot_of_Gold Gold Gold_Piece_250
+    100254: g Pot_of_Gold Gold Gold_Piece_250_85
+    100256: g Pot_of_Gold Gold Gold_Piece_251
+    100258: g Pot_of_Gold Gold Gold_Piece_251_86
+    100260: g Pot_of_Gold Gold Gold_Piece_252
+    100262: g Pot_of_Gold Gold Gold_Piece_252_87
+    100264: g Pot_of_Gold Gold Gold_Piece_253
+    100266: g Pot_of_Gold Gold Gold_Piece_253_88
+    100268: g Pot_of_Gold Gold Gold_Piece_258
+    100270: g Pot_of_Gold Gold Gold_Piece_258_89
+    100272: g Pot_of_Gold Gold Gold_Piece_259
+    100274: g Pot_of_Gold Gold Gold_Piece_259_90
+    100276: g Pot_of_Gold Gold Gold_Piece_260
+    100278: g Pot_of_Gold Gold Gold_Piece_260_91
+    100280: g Pot_of_Gold Gold Gold_Piece_261
+    100282: g Pot_of_Gold Gold Gold_Piece_261_92
+    100284: g Pot_of_Gold Gold Gold_Piece_266
+    100286: g Pot_of_Gold Gold Gold_Piece_266_93
+    100288: g Pot_of_Gold Gold Gold_Piece_267
+    100290: g Pot_of_Gold Gold Gold_Piece_267_94
+    100292: g Pot_of_Gold Gold Gold_Piece_268
+    100294: g Pot_of_Gold Gold Gold_Piece_268_95
+    100296: g Pot_of_Gold Gold Gold_Piece_269
+    100298: g Pot_of_Gold Gold Gold_Piece_269_96
+    100300: g Pot_of_Gold Gold Gold_Piece_50
+    100302: g Pot_of_Gold Gold Gold_Piece_50_1
+    100304: g Pot_of_Gold Gold Gold_Piece_51
+    100306: g Pot_of_Gold Gold Gold_Piece_51_2
+    100308: g Pot_of_Gold Gold Gold_Piece_52
+    100310: g Pot_of_Gold Gold Gold_Piece_52_3
+    100312: g Pot_of_Gold Gold Gold_Piece_53
+    100314: g Pot_of_Gold Gold Gold_Piece_53_4
+    100316: g Pot_of_Gold Gold Gold_Piece_58
+    100318: g Pot_of_Gold Gold Gold_Piece_58_5
+    100320: g Pot_of_Gold Gold Gold_Piece_59
+    100322: g Pot_of_Gold Gold Gold_Piece_59_6
+    100324: g Pot_of_Gold Gold Gold_Piece_60
+    100326: g Pot_of_Gold Gold Gold_Piece_60_7
+    100328: g Pot_of_Gold Gold Gold_Piece_61
+    100330: g Pot_of_Gold Gold Gold_Piece_61_8
+    100332: g Pot_of_Gold Gold Gold_Piece_66
+    100334: g Pot_of_Gold Gold Gold_Piece_66_9
+    100336: g Pot_of_Gold Gold Gold_Piece_67
+    100338: g Pot_of_Gold Gold Gold_Piece_67_10
+    100340: g Pot_of_Gold Gold Gold_Piece_68
+    100342: g Pot_of_Gold Gold Gold_Piece_68_11
+    100344: g Pot_of_Gold Gold Gold_Piece_69
+    100346: g Pot_of_Gold Gold Gold_Piece_69_12
+    100348: g Pot_of_Gold Gold Gold_Piece_89
+    100350: g Pot_of_Gold Gold Gold_Piece_89_13
+    100352: g Pot_of_Gold Gold Gold_Piece_90
+    100354: g Pot_of_Gold Gold Gold_Piece_90_14
+    100356: g Pot_of_Gold Gold Gold_Piece_91
+    100358: g Pot_of_Gold Gold Gold_Piece_91_15
+    100360: g Pot_of_Gold Gold Gold_Piece_92
+    100362: g Pot_of_Gold Gold Gold_Piece_92_16
+    100364: g Pot_of_Gold Gold Gold_Piece_93
+    100366: g Pot_of_Gold Gold Gold_Piece_93_17
+    100368: g Pot_of_Gold Gold Gold_Piece_94
+    100370: g Pot_of_Gold Gold Gold_Piece_94_18
+    100372: g Pot_of_Gold Gold Gold_Piece_97
+    100374: g Pot_of_Gold Gold Gold_Piece_97_19
+    100376: g Pot_of_Gold Gold Gold_Piece_98
+    100378: g Pot_of_Gold Gold Gold_Piece_98_20
+    100380: g Pot_of_Gold Gold Gold_Piece_99
+    100382: g Pot_of_Gold Gold Gold_Piece_99_21
+    100384: g Pot_of_Gold Pot_1
+    100386: g Pot_of_Gold Pot_1_0
+    100388: //RootNode
+    400000: g Pot_of_Gold Gold Gold_Piece_100
+    400002: g Pot_of_Gold Gold Gold_Piece_100_22
+    400004: g Pot_of_Gold Gold Gold_Piece_101
+    400006: g Pot_of_Gold Gold Gold_Piece_101_23
+    400008: g Pot_of_Gold Gold Gold_Piece_102
+    400010: g Pot_of_Gold Gold Gold_Piece_102_24
+    400012: g Pot_of_Gold Gold Gold_Piece_105
+    400014: g Pot_of_Gold Gold Gold_Piece_105_25
+    400016: g Pot_of_Gold Gold Gold_Piece_106
+    400018: g Pot_of_Gold Gold Gold_Piece_106_26
+    400020: g Pot_of_Gold Gold Gold_Piece_107
+    400022: g Pot_of_Gold Gold Gold_Piece_107_27
+    400024: g Pot_of_Gold Gold Gold_Piece_108
+    400026: g Pot_of_Gold Gold Gold_Piece_108_28
+    400028: g Pot_of_Gold Gold Gold_Piece_109
+    400030: g Pot_of_Gold Gold Gold_Piece_109_29
+    400032: g Pot_of_Gold Gold Gold_Piece_110
+    400034: g Pot_of_Gold Gold Gold_Piece_110_30
+    400036: g Pot_of_Gold Gold Gold_Piece_129
+    400038: g Pot_of_Gold Gold Gold_Piece_129_31
+    400040: g Pot_of_Gold Gold Gold_Piece_130
+    400042: g Pot_of_Gold Gold Gold_Piece_130_32
+    400044: g Pot_of_Gold Gold Gold_Piece_131
+    400046: g Pot_of_Gold Gold Gold_Piece_131_33
+    400048: g Pot_of_Gold Gold Gold_Piece_132
+    400050: g Pot_of_Gold Gold Gold_Piece_132_34
+    400052: g Pot_of_Gold Gold Gold_Piece_133
+    400054: g Pot_of_Gold Gold Gold_Piece_133_35
+    400056: g Pot_of_Gold Gold Gold_Piece_134
+    400058: g Pot_of_Gold Gold Gold_Piece_134_36
+    400060: g Pot_of_Gold Gold Gold_Piece_137
+    400062: g Pot_of_Gold Gold Gold_Piece_137_37
+    400064: g Pot_of_Gold Gold Gold_Piece_138
+    400066: g Pot_of_Gold Gold Gold_Piece_138_38
+    400068: g Pot_of_Gold Gold Gold_Piece_139
+    400070: g Pot_of_Gold Gold Gold_Piece_139_39
+    400072: g Pot_of_Gold Gold Gold_Piece_140
+    400074: g Pot_of_Gold Gold Gold_Piece_140_40
+    400076: g Pot_of_Gold Gold Gold_Piece_141
+    400078: g Pot_of_Gold Gold Gold_Piece_141_41
+    400080: g Pot_of_Gold Gold Gold_Piece_142
+    400082: g Pot_of_Gold Gold Gold_Piece_142_42
+    400084: g Pot_of_Gold Gold Gold_Piece_145
+    400086: g Pot_of_Gold Gold Gold_Piece_145_43
+    400088: g Pot_of_Gold Gold Gold_Piece_146
+    400090: g Pot_of_Gold Gold Gold_Piece_146_44
+    400092: g Pot_of_Gold Gold Gold_Piece_147
+    400094: g Pot_of_Gold Gold Gold_Piece_147_45
+    400096: g Pot_of_Gold Gold Gold_Piece_148
+    400098: g Pot_of_Gold Gold Gold_Piece_148_46
+    400100: g Pot_of_Gold Gold Gold_Piece_149
+    400102: g Pot_of_Gold Gold Gold_Piece_149_47
+    400104: g Pot_of_Gold Gold Gold_Piece_150
+    400106: g Pot_of_Gold Gold Gold_Piece_150_48
+    400108: g Pot_of_Gold Gold Gold_Piece_169
+    400110: g Pot_of_Gold Gold Gold_Piece_169_49
+    400112: g Pot_of_Gold Gold Gold_Piece_170
+    400114: g Pot_of_Gold Gold Gold_Piece_170_50
+    400116: g Pot_of_Gold Gold Gold_Piece_171
+    400118: g Pot_of_Gold Gold Gold_Piece_171_51
+    400120: g Pot_of_Gold Gold Gold_Piece_172
+    400122: g Pot_of_Gold Gold Gold_Piece_172_52
+    400124: g Pot_of_Gold Gold Gold_Piece_173
+    400126: g Pot_of_Gold Gold Gold_Piece_173_53
+    400128: g Pot_of_Gold Gold Gold_Piece_174
+    400130: g Pot_of_Gold Gold Gold_Piece_174_54
+    400132: g Pot_of_Gold Gold Gold_Piece_177
+    400134: g Pot_of_Gold Gold Gold_Piece_177_55
+    400136: g Pot_of_Gold Gold Gold_Piece_178
+    400138: g Pot_of_Gold Gold Gold_Piece_178_56
+    400140: g Pot_of_Gold Gold Gold_Piece_179
+    400142: g Pot_of_Gold Gold Gold_Piece_179_57
+    400144: g Pot_of_Gold Gold Gold_Piece_180
+    400146: g Pot_of_Gold Gold Gold_Piece_180_58
+    400148: g Pot_of_Gold Gold Gold_Piece_181
+    400150: g Pot_of_Gold Gold Gold_Piece_181_59
+    400152: g Pot_of_Gold Gold Gold_Piece_182
+    400154: g Pot_of_Gold Gold Gold_Piece_182_60
+    400156: g Pot_of_Gold Gold Gold_Piece_185
+    400158: g Pot_of_Gold Gold Gold_Piece_185_61
+    400160: g Pot_of_Gold Gold Gold_Piece_186
+    400162: g Pot_of_Gold Gold Gold_Piece_186_62
+    400164: g Pot_of_Gold Gold Gold_Piece_187
+    400166: g Pot_of_Gold Gold Gold_Piece_187_63
+    400168: g Pot_of_Gold Gold Gold_Piece_188
+    400170: g Pot_of_Gold Gold Gold_Piece_188_64
+    400172: g Pot_of_Gold Gold Gold_Piece_189
+    400174: g Pot_of_Gold Gold Gold_Piece_189_65
+    400176: g Pot_of_Gold Gold Gold_Piece_190
+    400178: g Pot_of_Gold Gold Gold_Piece_190_66
+    400180: g Pot_of_Gold Gold Gold_Piece_209
+    400182: g Pot_of_Gold Gold Gold_Piece_209_67
+    400184: g Pot_of_Gold Gold Gold_Piece_210
+    400186: g Pot_of_Gold Gold Gold_Piece_210_68
+    400188: g Pot_of_Gold Gold Gold_Piece_211
+    400190: g Pot_of_Gold Gold Gold_Piece_211_69
+    400192: g Pot_of_Gold Gold Gold_Piece_212
+    400194: g Pot_of_Gold Gold Gold_Piece_212_70
+    400196: g Pot_of_Gold Gold Gold_Piece_213
+    400198: g Pot_of_Gold Gold Gold_Piece_213_71
+    400200: g Pot_of_Gold Gold Gold_Piece_214
+    400202: g Pot_of_Gold Gold Gold_Piece_214_72
+    400204: g Pot_of_Gold Gold Gold_Piece_217
+    400206: g Pot_of_Gold Gold Gold_Piece_217_73
+    400208: g Pot_of_Gold Gold Gold_Piece_218
+    400210: g Pot_of_Gold Gold Gold_Piece_218_74
+    400212: g Pot_of_Gold Gold Gold_Piece_219
+    400214: g Pot_of_Gold Gold Gold_Piece_219_75
+    400216: g Pot_of_Gold Gold Gold_Piece_220
+    400218: g Pot_of_Gold Gold Gold_Piece_220_76
+    400220: g Pot_of_Gold Gold Gold_Piece_221
+    400222: g Pot_of_Gold Gold Gold_Piece_221_77
+    400224: g Pot_of_Gold Gold Gold_Piece_222
+    400226: g Pot_of_Gold Gold Gold_Piece_222_78
+    400228: g Pot_of_Gold Gold Gold_Piece_225
+    400230: g Pot_of_Gold Gold Gold_Piece_225_79
+    400232: g Pot_of_Gold Gold Gold_Piece_226
+    400234: g Pot_of_Gold Gold Gold_Piece_226_80
+    400236: g Pot_of_Gold Gold Gold_Piece_227
+    400238: g Pot_of_Gold Gold Gold_Piece_227_81
+    400240: g Pot_of_Gold Gold Gold_Piece_228
+    400242: g Pot_of_Gold Gold Gold_Piece_228_82
+    400244: g Pot_of_Gold Gold Gold_Piece_229
+    400246: g Pot_of_Gold Gold Gold_Piece_229_83
+    400248: g Pot_of_Gold Gold Gold_Piece_230
+    400250: g Pot_of_Gold Gold Gold_Piece_230_84
+    400252: g Pot_of_Gold Gold Gold_Piece_250
+    400254: g Pot_of_Gold Gold Gold_Piece_250_85
+    400256: g Pot_of_Gold Gold Gold_Piece_251
+    400258: g Pot_of_Gold Gold Gold_Piece_251_86
+    400260: g Pot_of_Gold Gold Gold_Piece_252
+    400262: g Pot_of_Gold Gold Gold_Piece_252_87
+    400264: g Pot_of_Gold Gold Gold_Piece_253
+    400266: g Pot_of_Gold Gold Gold_Piece_253_88
+    400268: g Pot_of_Gold Gold Gold_Piece_258
+    400270: g Pot_of_Gold Gold Gold_Piece_258_89
+    400272: g Pot_of_Gold Gold Gold_Piece_259
+    400274: g Pot_of_Gold Gold Gold_Piece_259_90
+    400276: g Pot_of_Gold Gold Gold_Piece_260
+    400278: g Pot_of_Gold Gold Gold_Piece_260_91
+    400280: g Pot_of_Gold Gold Gold_Piece_261
+    400282: g Pot_of_Gold Gold Gold_Piece_261_92
+    400284: g Pot_of_Gold Gold Gold_Piece_266
+    400286: g Pot_of_Gold Gold Gold_Piece_266_93
+    400288: g Pot_of_Gold Gold Gold_Piece_267
+    400290: g Pot_of_Gold Gold Gold_Piece_267_94
+    400292: g Pot_of_Gold Gold Gold_Piece_268
+    400294: g Pot_of_Gold Gold Gold_Piece_268_95
+    400296: g Pot_of_Gold Gold Gold_Piece_269
+    400298: g Pot_of_Gold Gold Gold_Piece_269_96
+    400300: g Pot_of_Gold Gold Gold_Piece_50
+    400302: g Pot_of_Gold Gold Gold_Piece_50_1
+    400304: g Pot_of_Gold Gold Gold_Piece_51
+    400306: g Pot_of_Gold Gold Gold_Piece_51_2
+    400308: g Pot_of_Gold Gold Gold_Piece_52
+    400310: g Pot_of_Gold Gold Gold_Piece_52_3
+    400312: g Pot_of_Gold Gold Gold_Piece_53
+    400314: g Pot_of_Gold Gold Gold_Piece_53_4
+    400316: g Pot_of_Gold Gold Gold_Piece_58
+    400318: g Pot_of_Gold Gold Gold_Piece_58_5
+    400320: g Pot_of_Gold Gold Gold_Piece_59
+    400322: g Pot_of_Gold Gold Gold_Piece_59_6
+    400324: g Pot_of_Gold Gold Gold_Piece_60
+    400326: g Pot_of_Gold Gold Gold_Piece_60_7
+    400328: g Pot_of_Gold Gold Gold_Piece_61
+    400330: g Pot_of_Gold Gold Gold_Piece_61_8
+    400332: g Pot_of_Gold Gold Gold_Piece_66
+    400334: g Pot_of_Gold Gold Gold_Piece_66_9
+    400336: g Pot_of_Gold Gold Gold_Piece_67
+    400338: g Pot_of_Gold Gold Gold_Piece_67_10
+    400340: g Pot_of_Gold Gold Gold_Piece_68
+    400342: g Pot_of_Gold Gold Gold_Piece_68_11
+    400344: g Pot_of_Gold Gold Gold_Piece_69
+    400346: g Pot_of_Gold Gold Gold_Piece_69_12
+    400348: g Pot_of_Gold Gold Gold_Piece_89
+    400350: g Pot_of_Gold Gold Gold_Piece_89_13
+    400352: g Pot_of_Gold Gold Gold_Piece_90
+    400354: g Pot_of_Gold Gold Gold_Piece_90_14
+    400356: g Pot_of_Gold Gold Gold_Piece_91
+    400358: g Pot_of_Gold Gold Gold_Piece_91_15
+    400360: g Pot_of_Gold Gold Gold_Piece_92
+    400362: g Pot_of_Gold Gold Gold_Piece_92_16
+    400364: g Pot_of_Gold Gold Gold_Piece_93
+    400366: g Pot_of_Gold Gold Gold_Piece_93_17
+    400368: g Pot_of_Gold Gold Gold_Piece_94
+    400370: g Pot_of_Gold Gold Gold_Piece_94_18
+    400372: g Pot_of_Gold Gold Gold_Piece_97
+    400374: g Pot_of_Gold Gold Gold_Piece_97_19
+    400376: g Pot_of_Gold Gold Gold_Piece_98
+    400378: g Pot_of_Gold Gold Gold_Piece_98_20
+    400380: g Pot_of_Gold Gold Gold_Piece_99
+    400382: g Pot_of_Gold Gold Gold_Piece_99_21
+    400384: g Pot_of_Gold Pot_1
+    400386: g Pot_of_Gold Pot_1_0
+    400388: //RootNode
+    2100000: DefaultMaterial_0
+    2300000: g Pot_of_Gold Gold Gold_Piece_100_22
+    2300002: g Pot_of_Gold Gold Gold_Piece_101_23
+    2300004: g Pot_of_Gold Gold Gold_Piece_102_24
+    2300006: g Pot_of_Gold Gold Gold_Piece_105_25
+    2300008: g Pot_of_Gold Gold Gold_Piece_106_26
+    2300010: g Pot_of_Gold Gold Gold_Piece_107_27
+    2300012: g Pot_of_Gold Gold Gold_Piece_108_28
+    2300014: g Pot_of_Gold Gold Gold_Piece_109_29
+    2300016: g Pot_of_Gold Gold Gold_Piece_110_30
+    2300018: g Pot_of_Gold Gold Gold_Piece_129_31
+    2300020: g Pot_of_Gold Gold Gold_Piece_130_32
+    2300022: g Pot_of_Gold Gold Gold_Piece_131_33
+    2300024: g Pot_of_Gold Gold Gold_Piece_132_34
+    2300026: g Pot_of_Gold Gold Gold_Piece_133_35
+    2300028: g Pot_of_Gold Gold Gold_Piece_134_36
+    2300030: g Pot_of_Gold Gold Gold_Piece_137_37
+    2300032: g Pot_of_Gold Gold Gold_Piece_138_38
+    2300034: g Pot_of_Gold Gold Gold_Piece_139_39
+    2300036: g Pot_of_Gold Gold Gold_Piece_140_40
+    2300038: g Pot_of_Gold Gold Gold_Piece_141_41
+    2300040: g Pot_of_Gold Gold Gold_Piece_142_42
+    2300042: g Pot_of_Gold Gold Gold_Piece_145_43
+    2300044: g Pot_of_Gold Gold Gold_Piece_146_44
+    2300046: g Pot_of_Gold Gold Gold_Piece_147_45
+    2300048: g Pot_of_Gold Gold Gold_Piece_148_46
+    2300050: g Pot_of_Gold Gold Gold_Piece_149_47
+    2300052: g Pot_of_Gold Gold Gold_Piece_150_48
+    2300054: g Pot_of_Gold Gold Gold_Piece_169_49
+    2300056: g Pot_of_Gold Gold Gold_Piece_170_50
+    2300058: g Pot_of_Gold Gold Gold_Piece_171_51
+    2300060: g Pot_of_Gold Gold Gold_Piece_172_52
+    2300062: g Pot_of_Gold Gold Gold_Piece_173_53
+    2300064: g Pot_of_Gold Gold Gold_Piece_174_54
+    2300066: g Pot_of_Gold Gold Gold_Piece_177_55
+    2300068: g Pot_of_Gold Gold Gold_Piece_178_56
+    2300070: g Pot_of_Gold Gold Gold_Piece_179_57
+    2300072: g Pot_of_Gold Gold Gold_Piece_180_58
+    2300074: g Pot_of_Gold Gold Gold_Piece_181_59
+    2300076: g Pot_of_Gold Gold Gold_Piece_182_60
+    2300078: g Pot_of_Gold Gold Gold_Piece_185_61
+    2300080: g Pot_of_Gold Gold Gold_Piece_186_62
+    2300082: g Pot_of_Gold Gold Gold_Piece_187_63
+    2300084: g Pot_of_Gold Gold Gold_Piece_188_64
+    2300086: g Pot_of_Gold Gold Gold_Piece_189_65
+    2300088: g Pot_of_Gold Gold Gold_Piece_190_66
+    2300090: g Pot_of_Gold Gold Gold_Piece_209_67
+    2300092: g Pot_of_Gold Gold Gold_Piece_210_68
+    2300094: g Pot_of_Gold Gold Gold_Piece_211_69
+    2300096: g Pot_of_Gold Gold Gold_Piece_212_70
+    2300098: g Pot_of_Gold Gold Gold_Piece_213_71
+    2300100: g Pot_of_Gold Gold Gold_Piece_214_72
+    2300102: g Pot_of_Gold Gold Gold_Piece_217_73
+    2300104: g Pot_of_Gold Gold Gold_Piece_218_74
+    2300106: g Pot_of_Gold Gold Gold_Piece_219_75
+    2300108: g Pot_of_Gold Gold Gold_Piece_220_76
+    2300110: g Pot_of_Gold Gold Gold_Piece_221_77
+    2300112: g Pot_of_Gold Gold Gold_Piece_222_78
+    2300114: g Pot_of_Gold Gold Gold_Piece_225_79
+    2300116: g Pot_of_Gold Gold Gold_Piece_226_80
+    2300118: g Pot_of_Gold Gold Gold_Piece_227_81
+    2300120: g Pot_of_Gold Gold Gold_Piece_228_82
+    2300122: g Pot_of_Gold Gold Gold_Piece_229_83
+    2300124: g Pot_of_Gold Gold Gold_Piece_230_84
+    2300126: g Pot_of_Gold Gold Gold_Piece_250_85
+    2300128: g Pot_of_Gold Gold Gold_Piece_251_86
+    2300130: g Pot_of_Gold Gold Gold_Piece_252_87
+    2300132: g Pot_of_Gold Gold Gold_Piece_253_88
+    2300134: g Pot_of_Gold Gold Gold_Piece_258_89
+    2300136: g Pot_of_Gold Gold Gold_Piece_259_90
+    2300138: g Pot_of_Gold Gold Gold_Piece_260_91
+    2300140: g Pot_of_Gold Gold Gold_Piece_261_92
+    2300142: g Pot_of_Gold Gold Gold_Piece_266_93
+    2300144: g Pot_of_Gold Gold Gold_Piece_267_94
+    2300146: g Pot_of_Gold Gold Gold_Piece_268_95
+    2300148: g Pot_of_Gold Gold Gold_Piece_269_96
+    2300150: g Pot_of_Gold Gold Gold_Piece_50_1
+    2300152: g Pot_of_Gold Gold Gold_Piece_51_2
+    2300154: g Pot_of_Gold Gold Gold_Piece_52_3
+    2300156: g Pot_of_Gold Gold Gold_Piece_53_4
+    2300158: g Pot_of_Gold Gold Gold_Piece_58_5
+    2300160: g Pot_of_Gold Gold Gold_Piece_59_6
+    2300162: g Pot_of_Gold Gold Gold_Piece_60_7
+    2300164: g Pot_of_Gold Gold Gold_Piece_61_8
+    2300166: g Pot_of_Gold Gold Gold_Piece_66_9
+    2300168: g Pot_of_Gold Gold Gold_Piece_67_10
+    2300170: g Pot_of_Gold Gold Gold_Piece_68_11
+    2300172: g Pot_of_Gold Gold Gold_Piece_69_12
+    2300174: g Pot_of_Gold Gold Gold_Piece_89_13
+    2300176: g Pot_of_Gold Gold Gold_Piece_90_14
+    2300178: g Pot_of_Gold Gold Gold_Piece_91_15
+    2300180: g Pot_of_Gold Gold Gold_Piece_92_16
+    2300182: g Pot_of_Gold Gold Gold_Piece_93_17
+    2300184: g Pot_of_Gold Gold Gold_Piece_94_18
+    2300186: g Pot_of_Gold Gold Gold_Piece_97_19
+    2300188: g Pot_of_Gold Gold Gold_Piece_98_20
+    2300190: g Pot_of_Gold Gold Gold_Piece_99_21
+    2300192: g Pot_of_Gold Pot_1_0
+    3300000: g Pot_of_Gold Gold Gold_Piece_100_22
+    3300002: g Pot_of_Gold Gold Gold_Piece_101_23
+    3300004: g Pot_of_Gold Gold Gold_Piece_102_24
+    3300006: g Pot_of_Gold Gold Gold_Piece_105_25
+    3300008: g Pot_of_Gold Gold Gold_Piece_106_26
+    3300010: g Pot_of_Gold Gold Gold_Piece_107_27
+    3300012: g Pot_of_Gold Gold Gold_Piece_108_28
+    3300014: g Pot_of_Gold Gold Gold_Piece_109_29
+    3300016: g Pot_of_Gold Gold Gold_Piece_110_30
+    3300018: g Pot_of_Gold Gold Gold_Piece_129_31
+    3300020: g Pot_of_Gold Gold Gold_Piece_130_32
+    3300022: g Pot_of_Gold Gold Gold_Piece_131_33
+    3300024: g Pot_of_Gold Gold Gold_Piece_132_34
+    3300026: g Pot_of_Gold Gold Gold_Piece_133_35
+    3300028: g Pot_of_Gold Gold Gold_Piece_134_36
+    3300030: g Pot_of_Gold Gold Gold_Piece_137_37
+    3300032: g Pot_of_Gold Gold Gold_Piece_138_38
+    3300034: g Pot_of_Gold Gold Gold_Piece_139_39
+    3300036: g Pot_of_Gold Gold Gold_Piece_140_40
+    3300038: g Pot_of_Gold Gold Gold_Piece_141_41
+    3300040: g Pot_of_Gold Gold Gold_Piece_142_42
+    3300042: g Pot_of_Gold Gold Gold_Piece_145_43
+    3300044: g Pot_of_Gold Gold Gold_Piece_146_44
+    3300046: g Pot_of_Gold Gold Gold_Piece_147_45
+    3300048: g Pot_of_Gold Gold Gold_Piece_148_46
+    3300050: g Pot_of_Gold Gold Gold_Piece_149_47
+    3300052: g Pot_of_Gold Gold Gold_Piece_150_48
+    3300054: g Pot_of_Gold Gold Gold_Piece_169_49
+    3300056: g Pot_of_Gold Gold Gold_Piece_170_50
+    3300058: g Pot_of_Gold Gold Gold_Piece_171_51
+    3300060: g Pot_of_Gold Gold Gold_Piece_172_52
+    3300062: g Pot_of_Gold Gold Gold_Piece_173_53
+    3300064: g Pot_of_Gold Gold Gold_Piece_174_54
+    3300066: g Pot_of_Gold Gold Gold_Piece_177_55
+    3300068: g Pot_of_Gold Gold Gold_Piece_178_56
+    3300070: g Pot_of_Gold Gold Gold_Piece_179_57
+    3300072: g Pot_of_Gold Gold Gold_Piece_180_58
+    3300074: g Pot_of_Gold Gold Gold_Piece_181_59
+    3300076: g Pot_of_Gold Gold Gold_Piece_182_60
+    3300078: g Pot_of_Gold Gold Gold_Piece_185_61
+    3300080: g Pot_of_Gold Gold Gold_Piece_186_62
+    3300082: g Pot_of_Gold Gold Gold_Piece_187_63
+    3300084: g Pot_of_Gold Gold Gold_Piece_188_64
+    3300086: g Pot_of_Gold Gold Gold_Piece_189_65
+    3300088: g Pot_of_Gold Gold Gold_Piece_190_66
+    3300090: g Pot_of_Gold Gold Gold_Piece_209_67
+    3300092: g Pot_of_Gold Gold Gold_Piece_210_68
+    3300094: g Pot_of_Gold Gold Gold_Piece_211_69
+    3300096: g Pot_of_Gold Gold Gold_Piece_212_70
+    3300098: g Pot_of_Gold Gold Gold_Piece_213_71
+    3300100: g Pot_of_Gold Gold Gold_Piece_214_72
+    3300102: g Pot_of_Gold Gold Gold_Piece_217_73
+    3300104: g Pot_of_Gold Gold Gold_Piece_218_74
+    3300106: g Pot_of_Gold Gold Gold_Piece_219_75
+    3300108: g Pot_of_Gold Gold Gold_Piece_220_76
+    3300110: g Pot_of_Gold Gold Gold_Piece_221_77
+    3300112: g Pot_of_Gold Gold Gold_Piece_222_78
+    3300114: g Pot_of_Gold Gold Gold_Piece_225_79
+    3300116: g Pot_of_Gold Gold Gold_Piece_226_80
+    3300118: g Pot_of_Gold Gold Gold_Piece_227_81
+    3300120: g Pot_of_Gold Gold Gold_Piece_228_82
+    3300122: g Pot_of_Gold Gold Gold_Piece_229_83
+    3300124: g Pot_of_Gold Gold Gold_Piece_230_84
+    3300126: g Pot_of_Gold Gold Gold_Piece_250_85
+    3300128: g Pot_of_Gold Gold Gold_Piece_251_86
+    3300130: g Pot_of_Gold Gold Gold_Piece_252_87
+    3300132: g Pot_of_Gold Gold Gold_Piece_253_88
+    3300134: g Pot_of_Gold Gold Gold_Piece_258_89
+    3300136: g Pot_of_Gold Gold Gold_Piece_259_90
+    3300138: g Pot_of_Gold Gold Gold_Piece_260_91
+    3300140: g Pot_of_Gold Gold Gold_Piece_261_92
+    3300142: g Pot_of_Gold Gold Gold_Piece_266_93
+    3300144: g Pot_of_Gold Gold Gold_Piece_267_94
+    3300146: g Pot_of_Gold Gold Gold_Piece_268_95
+    3300148: g Pot_of_Gold Gold Gold_Piece_269_96
+    3300150: g Pot_of_Gold Gold Gold_Piece_50_1
+    3300152: g Pot_of_Gold Gold Gold_Piece_51_2
+    3300154: g Pot_of_Gold Gold Gold_Piece_52_3
+    3300156: g Pot_of_Gold Gold Gold_Piece_53_4
+    3300158: g Pot_of_Gold Gold Gold_Piece_58_5
+    3300160: g Pot_of_Gold Gold Gold_Piece_59_6
+    3300162: g Pot_of_Gold Gold Gold_Piece_60_7
+    3300164: g Pot_of_Gold Gold Gold_Piece_61_8
+    3300166: g Pot_of_Gold Gold Gold_Piece_66_9
+    3300168: g Pot_of_Gold Gold Gold_Piece_67_10
+    3300170: g Pot_of_Gold Gold Gold_Piece_68_11
+    3300172: g Pot_of_Gold Gold Gold_Piece_69_12
+    3300174: g Pot_of_Gold Gold Gold_Piece_89_13
+    3300176: g Pot_of_Gold Gold Gold_Piece_90_14
+    3300178: g Pot_of_Gold Gold Gold_Piece_91_15
+    3300180: g Pot_of_Gold Gold Gold_Piece_92_16
+    3300182: g Pot_of_Gold Gold Gold_Piece_93_17
+    3300184: g Pot_of_Gold Gold Gold_Piece_94_18
+    3300186: g Pot_of_Gold Gold Gold_Piece_97_19
+    3300188: g Pot_of_Gold Gold Gold_Piece_98_20
+    3300190: g Pot_of_Gold Gold Gold_Piece_99_21
+    3300192: g Pot_of_Gold Pot_1_0
+    4300000: g Pot_of_Gold Pot_1_0
+    4300002: g Pot_of_Gold Gold Gold_Piece_50_1
+    4300004: g Pot_of_Gold Gold Gold_Piece_51_2
+    4300006: g Pot_of_Gold Gold Gold_Piece_52_3
+    4300008: g Pot_of_Gold Gold Gold_Piece_53_4
+    4300010: g Pot_of_Gold Gold Gold_Piece_58_5
+    4300012: g Pot_of_Gold Gold Gold_Piece_59_6
+    4300014: g Pot_of_Gold Gold Gold_Piece_60_7
+    4300016: g Pot_of_Gold Gold Gold_Piece_61_8
+    4300018: g Pot_of_Gold Gold Gold_Piece_66_9
+    4300020: g Pot_of_Gold Gold Gold_Piece_67_10
+    4300022: g Pot_of_Gold Gold Gold_Piece_68_11
+    4300024: g Pot_of_Gold Gold Gold_Piece_69_12
+    4300026: g Pot_of_Gold Gold Gold_Piece_89_13
+    4300028: g Pot_of_Gold Gold Gold_Piece_90_14
+    4300030: g Pot_of_Gold Gold Gold_Piece_91_15
+    4300032: g Pot_of_Gold Gold Gold_Piece_92_16
+    4300034: g Pot_of_Gold Gold Gold_Piece_93_17
+    4300036: g Pot_of_Gold Gold Gold_Piece_94_18
+    4300038: g Pot_of_Gold Gold Gold_Piece_97_19
+    4300040: g Pot_of_Gold Gold Gold_Piece_98_20
+    4300042: g Pot_of_Gold Gold Gold_Piece_99_21
+    4300044: g Pot_of_Gold Gold Gold_Piece_100_22
+    4300046: g Pot_of_Gold Gold Gold_Piece_101_23
+    4300048: g Pot_of_Gold Gold Gold_Piece_102_24
+    4300050: g Pot_of_Gold Gold Gold_Piece_105_25
+    4300052: g Pot_of_Gold Gold Gold_Piece_106_26
+    4300054: g Pot_of_Gold Gold Gold_Piece_107_27
+    4300056: g Pot_of_Gold Gold Gold_Piece_108_28
+    4300058: g Pot_of_Gold Gold Gold_Piece_109_29
+    4300060: g Pot_of_Gold Gold Gold_Piece_110_30
+    4300062: g Pot_of_Gold Gold Gold_Piece_129_31
+    4300064: g Pot_of_Gold Gold Gold_Piece_130_32
+    4300066: g Pot_of_Gold Gold Gold_Piece_131_33
+    4300068: g Pot_of_Gold Gold Gold_Piece_132_34
+    4300070: g Pot_of_Gold Gold Gold_Piece_133_35
+    4300072: g Pot_of_Gold Gold Gold_Piece_134_36
+    4300074: g Pot_of_Gold Gold Gold_Piece_137_37
+    4300076: g Pot_of_Gold Gold Gold_Piece_138_38
+    4300078: g Pot_of_Gold Gold Gold_Piece_139_39
+    4300080: g Pot_of_Gold Gold Gold_Piece_140_40
+    4300082: g Pot_of_Gold Gold Gold_Piece_141_41
+    4300084: g Pot_of_Gold Gold Gold_Piece_142_42
+    4300086: g Pot_of_Gold Gold Gold_Piece_145_43
+    4300088: g Pot_of_Gold Gold Gold_Piece_146_44
+    4300090: g Pot_of_Gold Gold Gold_Piece_147_45
+    4300092: g Pot_of_Gold Gold Gold_Piece_148_46
+    4300094: g Pot_of_Gold Gold Gold_Piece_149_47
+    4300096: g Pot_of_Gold Gold Gold_Piece_150_48
+    4300098: g Pot_of_Gold Gold Gold_Piece_169_49
+    4300100: g Pot_of_Gold Gold Gold_Piece_170_50
+    4300102: g Pot_of_Gold Gold Gold_Piece_171_51
+    4300104: g Pot_of_Gold Gold Gold_Piece_172_52
+    4300106: g Pot_of_Gold Gold Gold_Piece_173_53
+    4300108: g Pot_of_Gold Gold Gold_Piece_174_54
+    4300110: g Pot_of_Gold Gold Gold_Piece_177_55
+    4300112: g Pot_of_Gold Gold Gold_Piece_178_56
+    4300114: g Pot_of_Gold Gold Gold_Piece_179_57
+    4300116: g Pot_of_Gold Gold Gold_Piece_180_58
+    4300118: g Pot_of_Gold Gold Gold_Piece_181_59
+    4300120: g Pot_of_Gold Gold Gold_Piece_182_60
+    4300122: g Pot_of_Gold Gold Gold_Piece_185_61
+    4300124: g Pot_of_Gold Gold Gold_Piece_186_62
+    4300126: g Pot_of_Gold Gold Gold_Piece_187_63
+    4300128: g Pot_of_Gold Gold Gold_Piece_188_64
+    4300130: g Pot_of_Gold Gold Gold_Piece_189_65
+    4300132: g Pot_of_Gold Gold Gold_Piece_190_66
+    4300134: g Pot_of_Gold Gold Gold_Piece_209_67
+    4300136: g Pot_of_Gold Gold Gold_Piece_210_68
+    4300138: g Pot_of_Gold Gold Gold_Piece_211_69
+    4300140: g Pot_of_Gold Gold Gold_Piece_212_70
+    4300142: g Pot_of_Gold Gold Gold_Piece_213_71
+    4300144: g Pot_of_Gold Gold Gold_Piece_214_72
+    4300146: g Pot_of_Gold Gold Gold_Piece_217_73
+    4300148: g Pot_of_Gold Gold Gold_Piece_218_74
+    4300150: g Pot_of_Gold Gold Gold_Piece_219_75
+    4300152: g Pot_of_Gold Gold Gold_Piece_220_76
+    4300154: g Pot_of_Gold Gold Gold_Piece_221_77
+    4300156: g Pot_of_Gold Gold Gold_Piece_222_78
+    4300158: g Pot_of_Gold Gold Gold_Piece_225_79
+    4300160: g Pot_of_Gold Gold Gold_Piece_226_80
+    4300162: g Pot_of_Gold Gold Gold_Piece_227_81
+    4300164: g Pot_of_Gold Gold Gold_Piece_228_82
+    4300166: g Pot_of_Gold Gold Gold_Piece_229_83
+    4300168: g Pot_of_Gold Gold Gold_Piece_230_84
+    4300170: g Pot_of_Gold Gold Gold_Piece_250_85
+    4300172: g Pot_of_Gold Gold Gold_Piece_251_86
+    4300174: g Pot_of_Gold Gold Gold_Piece_252_87
+    4300176: g Pot_of_Gold Gold Gold_Piece_253_88
+    4300178: g Pot_of_Gold Gold Gold_Piece_258_89
+    4300180: g Pot_of_Gold Gold Gold_Piece_259_90
+    4300182: g Pot_of_Gold Gold Gold_Piece_260_91
+    4300184: g Pot_of_Gold Gold Gold_Piece_261_92
+    4300186: g Pot_of_Gold Gold Gold_Piece_266_93
+    4300188: g Pot_of_Gold Gold Gold_Piece_267_94
+    4300190: g Pot_of_Gold Gold Gold_Piece_268_95
+    4300192: g Pot_of_Gold Gold Gold_Piece_269_96
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

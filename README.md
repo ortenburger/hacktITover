@@ -43,12 +43,12 @@ The group is acting collectively, everybody supports the other teammates. Produc
 Remote working teams seldom go beyond the Forming-phase. They just work together, but are not interacting. They never reach the norming phase, not to speak of the Performing-Phase.  
 Teamworking should not to be left to chance. Due to the reason, the main objectives of team development are establishing a positive working climate and a trustful cooperation.
 
-Vishoni is made especially for remote working teammates. They learn about each other, they achieve goals, which they never would have reached on their own. 
-In Vishoni´s protected environment people are lead to active and open communication. They learn to give and receive constructive feedback and to talk about their expectations. 
-With Vishoni teams can pass the phases of Forming and Storming in a much shorter time. They fail and win together!
+VISHONI is made especially for remote working teammates. They learn about each other, they achieve goals, which they never would have reached on their own. 
+In VISHONI´s protected environment people are lead to active and open communication. They learn to give and receive constructive feedback and to talk about their expectations. 
+With VISHONI teams can pass the phases of Forming and Storming in a much shorter time. They fail and win together!
 Results are a closer emotional bond and a boost in team spirit, leading to a much higher outcome. 
 We support the motivation with the usage of the SAP Gamification Service. Teams can achieve credits together, that are shown on the company´s Hall of Fame. 
 Based on the individual company´s culture, there is a system of incentives. New teams get support by coaches. The coaches are supported by analyses from PRECIRE, we gained from the Vishoni challenges. This analyses are used for composing the future team challenges. In the end the teammates are not always compatible and the team composition has to be changed in a scientific comprehensibly way. 
 To prevent manipulations, we are using Blochchain, implemented with SAP-Cloud. With Blockchain we identify user but keep them anonymous for the psychological evaluation. Every result in every session is saved in the chain.
-Our technology can be expand to a lot of other usecases. Elderly people can easily interact with their grandchildren. PTSD-patients have access to therapist at any time. 
-Another important field is suicide prevention. Supported by the session information we can intervene in time. With inbenta Chat-Bots we can offer a possibility to gain time until a real person is reach. 
+Our technology can be expand to a lot of other usecases. Elderly people can easily interact with their grandchildren. PTSD-patients have access to therapists at any time. 
+Another important field is suicide prevention. Supported by the session information we can intervene in time. With inbenta Chat-Bots we can offer a possibility to gain time until a real person is in reach. 

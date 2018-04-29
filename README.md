@@ -31,6 +31,8 @@ VISHONI is a Tool to improve team performance. According to The forming–stormi
 
 Teambuilding ist ein immer wiederkehrendes Thema in unserer Arbeitswelt. Nach dem Modell von Tuckman muss ein Team bei jeder Änderung immer wieder die 4 Phasen durchlaufen.
 
+![tuckmans](https://user-images.githubusercontent.com/38807108/39403475-83a7103a-4b7d-11e8-87ea-d34792944121.png)
+
 In der Forming-Phase lernen sich die Teammitglieder kennen, die Ziele und Aufgaben werden definiert, alle sind noch recht vorsichtig miteinander. 
 Storming ist die Phase, in der die Teammitglieder beginnen sich offen miteinander austauschen. Es können Konflikte bezüglich der Rollenverteilung entstehen. Die Leistung ist zwar gering aber die Phase ist notwendig um das gegenseitige Vertrauen aufzubauen und zu der nächster Phase überzuleiten. 
 Im Norming hat sich das Team beruhigt und gefunden, die Beziehungen sind harmonischer, die Rollen verteilt. 

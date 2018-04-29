@@ -25,29 +25,30 @@ Languages used:
 * C/++
 
 
-VISHONI is a Tool to improve team performance. 
-According to https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development we develop a tool to get into the 'storming'-stage of team development with remotely working teams. 
-To achieve this we put the teams into virtual escape rooms, where they will need to communicate and solve puzzles together. 
-By creating this game environment we are able to overcome cultural differences and drastically increase the teams performance on the long run. We use the communication between the team members to get insights on their optimal team roles via PRECIRE and machine learning (Tensorflow in the SAP-Cloud) to help improve the agile assembly of new teams. 
-To ensure data integrity and security and to prevent any kind of manipulation we are using the blockchain technology. The High score and sessions are stored via the SAP-Services.
 
- vishoni: virtuell + ishoni (ishoni -> Issho ni = japanese for "together") 
- 
- Teambuilding ist ein immer wiederkehrendes Thema in unserer Arbeitswelt.
-Nach dem Model von Tuckman muss jedes Team bei jeder Änderung immer wieder die 4 Phasen durchlaufen.
- 
- <img align="center" src="https://tools.thecoachingtoolscompany.com/wp-content/uploads/2014/02/TCTC-Forming-Storming.png">
+VISHONI is a Tool to improve team performance. According to the forming–storming–norming–performing model of group development by Bruce Tuckman (https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development) we develop a tool to get into the 'storming'-stage of team development with remotely working teams. To achieve this we put the teams into virtual escape rooms, where they will need to communicate and solve puzzles together. By creating this game environment we are able to overcome cultural differences and drastically increase the teams performance on the long run. We use the communication between the team members to get insights on their optimal team roles via PRECIRE and machine learning (Tensorflow in the SAP-Cloud) to help improve the agile assembly of new teams. To ensure data integrity and security and to prevent any kind of manipulation we are using the blockchain technology. The High score and sessions are stored via the SAP-Services.
 
-Inder Norming-Phase lernen sich die Teammitglieder kennen, die Ziele und Aufgaben werden definiert, alle sind noch recht vorsichtig miteinander.
-Storming ist die Phase, wo die Teammitglieder sich offen miteinander austauschen. Es können Streite Entstehen, Rollenverteilung, die Leistung ist zwar gering aber es ist notwendig um das gegenseitige Vertrauen aufzubauen und zu der nächster Phase zu kommen.
-Im norming hat sich das Team beruhigt und gefunden, die Beziehungen sind harmonischer, die Rollen verteilt
-Die Performing Phase ist letztendlich da, wo das Team gut arbeitet, sich gegenseitig viel aushilft und austauscht. 
-Vor allem die remote Teams kommen selten über die Forming-Phase hinaus. Sie arbeiten zwar miteinander, tauschen sich aber nie wirklich aus. 
-Somit kommen die Teams nie in die Norming-Phase, von der Performing-Phase ganz zu schweigen.
-Unsere App hilft den Teammitgliedern sich kennenzulernen, sie erreichen gemeinsam Ziele, die sie alleine niemals hätten erreichen könnten.
-Durch gezielte Aufgaben erleben die Benutzer gemeinsamme Erfolge und Niederlagen kennen und werden zu einer aktiven und offenen Kommunikation angeleitet. Dies führt zu einer engeren Verbindung auf der emotionalen Ebene, was letztendlich zum offenem Austausch und der Storming Phase führt, da so auch schnell Probleme angesprochen werden.
-Um zusätzliche Motivation zu erzeugen nutzen wir den SAP Gamification Service. Die Teams erreichen Punkte, welche unternehmensweit in der Hall of Fame angezeigt werden.
-Die Top Teams kriegen Belohnungen. Die Teams die am schlechtesten abschneiden, werden von Coaches unterstützt. Evtl passen sie gar nicht zusammen und sollten lieber mit anderen zusammenarbeiten.
-Um Manipulationen gar nicht erst zu ermöglichen setzen wir auf der Blockchain welche auf der SAP-Cloud implementiert wurde, so können wir die Nutzer eindeutig und anonymisiert (was für die psychologische Auswertung interessant ist) identifizieren. Jede Session mit ihren Ergebnissen wird als Payload in der Chain gespeichert. 
+In detail: 
+Teambulding is a recurring challenge in our working world. 
+Based on the model of Tuckman, every change in the team triggers another passing of the 4 phases of teambuilding. Forming, Storming, Norming and Performing.
 
-Die Technologie, welche wir hier entwickelt haben, lässt sich auch auf viele andere Felder anwenden, wie beispielsweise die Betreuung von Alten Menschen, welchen so die Moeglichkeit geboten wird mit ihren Enkeln einfach und unkompliziert zu spielen oder auch PTSD-Patienten nahezu jederzeit eine Session mit ihrem Therapeuten wahrzunehmen. Eine weitere interessante Anwendungsmoeglichkeit ist die Suizidhilfe, wir können mit ausreichend Trainingsdaten rechtzeitig intervenieren und erstmal über inbenta einen machinellen Psychologen an die Hand geben, bis ein realer Zeit hat sich dem gefährdeten anzunehmen.
+![tuckmans](https://user-images.githubusercontent.com/38807108/39403475-83a7103a-4b7d-11e8-87ea-d34792944121.png)
+
+During forming-phase the teammates just get together. Everyone is still very careful with each other. Objectives and tasks become defined. 
+In the storming-phase there often are conflicts. Teammates start to interact. The outcome still is small, but this phase is important to gain trust in each other. Storming is also the reconciliation to the next phase. 
+
+Norming is when the group finished deciding what is normal and shares a common goal. A spirit of harmonic co-operation emerges. 
+When the team is working together efficiently, the Performing-Phase is achieved. 
+The group is acting collectively, everybody supports the other teammates. Productivity and performance orientation are on a high level. 
+Remote working teams seldom go beyond the Forming-phase. They just work together, but are not interacting. They never reach the norming phase, not to speak of the Performing-Phase.  
+Teamworking should not to be left to chance. Due to the reason, the main objectives of team development are establishing a positive working climate and a trustful cooperation.
+
+VISHONI is made especially for remote working teammates. They learn about each other, they achieve goals, which they never would have reached on their own. 
+In VISHONI´s protected environment people are lead to active and open communication. They learn to give and receive constructive feedback and to talk about their expectations. 
+With VISHONI teams can pass the phases of Forming and Storming in a much shorter time. They fail and win together!
+Results are a closer emotional bond and a boost in team spirit, leading to a much higher outcome. 
+We support the motivation with the usage of the SAP Gamification Service. Teams can achieve credits together, that are shown on the company´s Hall of Fame. 
+Based on the individual company´s culture, there is a system of incentives. New teams get support by coaches. The coaches are supported by analyses from PRECIRE, we gained from the Vishoni challenges. This analyses are used for composing the future team challenges. In the end the teammates are not always compatible and the team composition has to be changed in a scientific comprehensibly way. 
+To prevent manipulations, we are using Blochchain, implemented with SAP-Cloud. With Blockchain we identify user but keep them anonymous for the psychological evaluation. Every result in every session is saved in the chain.
+Our technology can be expand to a lot of other usecases. Elderly people can easily interact with their grandchildren. PTSD-patients have access to therapists at any time. 
+Another important field is suicide prevention. Supported by the session information we can intervene in time. With inbenta Chat-Bots we can offer a possibility to gain time until a real person is in reach. 
